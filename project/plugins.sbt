@@ -1,0 +1,1 @@
+addSbtPlugin("com.nomadicdevops" % "sbt-zio-codegen" % "0.0.2")

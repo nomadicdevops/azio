@@ -1,0 +1,17 @@
+{
+  "type": "Gender",
+  "subtypes": [
+    {
+      "type": "Male"
+    },
+    {
+      "type": "Female"
+    },
+    {
+      "type": "NonBinary",
+      "fields": {
+        "pronoun": "String"
+      }
+    }
+  ]
+}

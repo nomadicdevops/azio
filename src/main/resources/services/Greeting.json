@@ -1,0 +1,12 @@
+{
+  "type": "Greeting",
+  "interface": {
+    "sayHi": {
+      "inputs": {
+        "person": "Person",
+        "message": "String"
+      },
+      "output": "String"
+    }
+  }
+}

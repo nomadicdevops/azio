@@ -1,0 +1,8 @@
+{
+  "type": "Person",
+  "fields": {
+    "name": "String",
+    "age": "Int",
+    "gender": "Gender"
+  }
+}
