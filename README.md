@@ -7,8 +7,7 @@ https://github.com/nomadicdevops/azio/tree/master/src/main/resources
 After running `sbt zioCodeGen`, generated code is located here:
 
 1) Generated code which does not require further intervention: 
-https://github.com/nomadicdevops/azio/tree/master/src/main/scala/com/example/zio
-both in `generated` and `impl` directories
+https://github.com/nomadicdevops/azio/tree/master/src/main/scala/com/example/zio/generated
 
 2) Generated code which needs business logic implementation, depicted by `???` marks:
 https://github.com/nomadicdevops/azio/tree/master/src/main/scala/com/example/zio/impl
