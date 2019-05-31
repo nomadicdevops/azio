@@ -13,5 +13,5 @@ both in `generated` and `impl` directories
 2) Generated code which needs business logic implementation, depicted by `???` marks:
 https://github.com/nomadicdevops/azio/tree/master/src/main/scala/com/example/zio/impl
 
-3) Tests, Mocks, Stubs and Helpers:
+3) Generated Mocks, Stubs, Tests and Helpers:
 https://github.com/nomadicdevops/azio/tree/master/src/test/scala/com/example/zio/generated
